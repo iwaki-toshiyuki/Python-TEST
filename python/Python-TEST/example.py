@@ -3,9 +3,10 @@ print("hello world")
 
 # 課題2
 def greet():
-  return "こんにちは"
+  print("こんにちは")
 
-print(greet())
+greet()
+
 
 # 課題3
 def print_name(name):
