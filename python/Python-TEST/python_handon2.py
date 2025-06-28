@@ -20,7 +20,7 @@ while i <= 5:
         j +=1
     i += 1
 
-#問題3
+#問題3　素数判定
 limit = 20000
 total = 0
 for i in range(2, limit):
@@ -30,5 +30,3 @@ for i in range(2, limit):
     else:
           total += i
 print(total)
-
-
